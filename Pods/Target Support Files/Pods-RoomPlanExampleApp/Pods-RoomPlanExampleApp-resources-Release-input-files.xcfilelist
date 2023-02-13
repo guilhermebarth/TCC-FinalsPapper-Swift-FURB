@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-RoomPlanExampleApp/Pods-RoomPlanExampleApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/MLKitImageLabeling/MLKitImageLabelingResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MLKitObjectDetection/MLKitObjectDetectionResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MLKitObjectDetectionCommon/MLKitObjectDetectionCommonResources.bundle

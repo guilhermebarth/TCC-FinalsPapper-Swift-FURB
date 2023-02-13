@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "175C0C46-E447-493F-97B2-CBF464DE533D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.RuntimeIssueBreakpoint">
+         <BreakpointContent
+            uuid = "AE12023A-3836-4EE7-A1EB-04E2D799F4A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            type = "4">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34BD0515-C82A-45B4-8BEF-F3BC1225AF45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoomPlanExampleApp/RoomCaptureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "listenSpeechToText(texto:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
